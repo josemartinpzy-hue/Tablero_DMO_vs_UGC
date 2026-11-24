@@ -1,0 +1,23 @@
+# Entornos virtuales y caché de Python
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Recursos locales descargables y caché
+nltk_data/
+.cache/
+
+# Salidas generadas por el pipeline
+resultados/
+data/processed/
+visualizaciones/
+docs/reporte_resultados_xidootopic.md
+
+# Archivos del sistema / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

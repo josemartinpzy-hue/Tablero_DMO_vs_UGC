@@ -1,7 +1,9 @@
 # Tablero Decisional DMO vs. Imagen Percibida (UGC)
 
-**Autor:** José Martín Páramo Zárate  
-**Programa:** Posgrado LIDIA 2026 — Visualización de Información
+**Autor:** José Martín Páramo Zárate
+**Correo:** josemartinpzy@gmail.com
+**Institución:** Universidad de Guanajuato División de ingenierías campus Irapuato-Salamanca
+**Programa:** Licenciatura en Datos e Inteligencia Artificial - LIDIA - Visualización de la información 
 
 Sistema de análisis de lenguaje natural y visualización interactiva (**2 pantallas × 4 cuadrantes**) para contrastar la imagen proyectada por una DMO (*Destination Management Organization*, ej. SECTUR) frente a la imagen percibida en fuentes UGC (*User-Generated Content* como reseñas o redes sociales).
 
